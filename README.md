@@ -5,7 +5,7 @@ This plugin allow aliases for searching from terminal with some popular web sear
 ## Installation
 
 ```sh
-git clone https://github.com/sinetoami/web-search.git "$ZSH_CUSTOM/plugins/web-search"
+git clone https://github.com/ZusMexSideCorebiz/web-search.git "$ZSH_CUSTOM/plugins/web-search"
 ```
 And add the plugin to your .zshrc:
 
